@@ -4,4 +4,4 @@ This proje is clone to from SHAIKH ANAS (MR.WEBDESİGNER) .
 
 
 
-![](/mainpage.png)
+![](/main-page.png)
